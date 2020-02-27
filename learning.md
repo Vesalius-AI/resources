@@ -1,6 +1,6 @@
 # Software Engineering:
 ## -Git/Version Control
-The git lesson in the Django2 course on the StackSkills website is really good
+The git lesson in the Django2 course on the StackSkills website is really good <br/>
 https://www.youtube.com/watch?v=0fKg7e37bQE&t=681s
 
 ## -Documentation/Clean Code
