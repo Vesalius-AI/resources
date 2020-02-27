@@ -8,6 +8,7 @@ https://github.com/SaikrishnaReddy1919/MyBooks/blob/master/%5BPROGRAMMING%5D%5BC
 ## -Application Development
 https://djangoforbeginners.com/introduction/ (Django book)
 
+
 ==================
 # Data Analytics/Science:
 ## -Data Visualization
@@ -15,6 +16,7 @@ https://djangoforbeginners.com/introduction/ (Django book)
 ## -Data Munging
 
 ## -Statistics
+
 
 ==================
 # Artificial Intelligence:
@@ -25,11 +27,16 @@ https://djangoforbeginners.com/introduction/ (Django book)
 ## -Privacy and Security in AI
 https://www.udacity.com/course/secure-and-private-ai--ud185 (free)
 
+
 ==================
 # Medicine:
+
 
 ==================
 # Databases:
 
+
 ==================
 # Other:
+
+
